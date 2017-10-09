@@ -5,6 +5,9 @@ basedir = os.path.abspath(os.path.dirname("__file__")) #base directory of app st
 JOBS_IP = 'REPLACE_BY_PROCESS_CONTROLLER_IP'
 SERVER_IP = 'REPLACE_BY_PUBLIC_IP_FOR_INNUENDO_FRONTEND'
 
+#PHYLOViZ Online IP
+phyloviz_root = 'http://REPLACE_BY_PHYLOVIZ_ONLINE_IP_ADDRESS'
+
 #LDAP IP
 LDAP_IP =  'REPLACE_BY_LDAP_PUBLIC_IP'
 
