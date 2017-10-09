@@ -11,7 +11,7 @@ INNUENDO platform is divided into two distinct applications that comunicate betw
  
 > **Installation**
 
-Information about the platform instalation can be found at the [**wiki**](https://github.com/B-UMMI/INNUENDO/wiki).
+Information about the platform instalation can be found at the [**wiki**](https://github.com/B-UMMI/INNUENDO/wiki)
 
 > **Source code**
 
